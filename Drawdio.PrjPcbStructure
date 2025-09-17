@@ -1,5 +1,0 @@
-Record=TopLevelDocument|FileName=Drawdio.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=Drawdio.SchDoc|Designator=Controller|SchDesignator=Controller|FileName=MCU.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Drawdio.SchDoc|Designator=Display|SchDesignator=Display|FileName=Outputs.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Outputs.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Drawdio.SchDoc|Designator=External Inputs|SchDesignator=External Inputs|FileName=Inputs.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Inputs.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Drawdio.SchDoc|Designator=Power Supply|SchDesignator=Power Supply|FileName=PSU.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=PSU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
