@@ -48,9 +48,9 @@
 .tmp_versions/
 
 # Folders
-*.Project Logs for*/*
-*.History/*
-*.__Previews/*
+*/Project Logs for*/*
+*/History/*
+*/__Previews/*
 *.Zip
 *.SchDocPreview
 
